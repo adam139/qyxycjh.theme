@@ -1,0 +1,11 @@
+<layers>
+    
+    <!-- Disable the Theme layer when uninstalled -->
+    
+    <layer
+        name="qyxycjh.theme"
+        interface="qyxycjh.theme.browser.interfaces.IThemeSpecific"
+        remove="True"
+        />
+
+</layers>
