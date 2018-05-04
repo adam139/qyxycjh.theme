@@ -2185,7 +2185,7 @@ fieldset[disabled] .link-parent.active {
 }
 .plone-breadcrumb {
   clear: left;
-  background-color: #ed4715;
+  background-color: #1159BB;
   margin-bottom: 20px;
   margin-top: 0;
   /* uncomment to hide breadcrumbs on home
@@ -2220,7 +2220,7 @@ fieldset[disabled] .link-parent.active {
   content: "";
   position: absolute;
   padding: 0 5px;
-  color: #ed4715;
+  color: #1159BB;
   border-left: 5px solid;
   border-top: 15px solid transparent;
   border-bottom: 15px solid transparent;
@@ -2268,7 +2268,7 @@ fieldset[disabled] .link-parent.active {
   text-decoration: none;
   color: #007bb1;
   background-color: #fff;
-  border: 1px solid #f23e03;
+  border: 1px solid #1663cc;
   margin-left: -1px;
 }
 .listingBar > li:first-child > a {
@@ -2284,7 +2284,7 @@ fieldset[disabled] .link-parent.active {
 .listingBar > li a:focus {
   color: #004665;
   background-color: #f2f1f1;
-  border-color: 1px solid #f23e03;
+  border-color: 1px solid #1663cc;
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
@@ -2303,7 +2303,7 @@ fieldset[disabled] .link-parent.active {
 .listingBar > .disabled > a:focus {
   color: #cccccc;
   background-color: #fcfcfd;
-  border-color: 1px solid #f23e03;
+  border-color: 1px solid #1663cc;
   cursor: default;
 }
 @media (max-width: 480px) {
@@ -2319,7 +2319,7 @@ fieldset[disabled] .link-parent.active {
 .autotabs {
   background: #fff;
   padding: 6px 12px;
-  border: 1px solid #f23e03;
+  border: 1px solid #1663cc;
   margin-bottom: 20px;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
@@ -2327,7 +2327,7 @@ fieldset[disabled] .link-parent.active {
 .pat-autotoc.autotabs .autotoc-nav,
 .autotabs .autotoc-nav {
   background: #f2f1f1;
-  border-bottom: 1px solid #f23e03;
+  border-bottom: 1px solid #1663cc;
   margin: -6px -12px 6px;
 }
 .pat-autotoc.autotabs .autotoc-nav a,
@@ -2335,7 +2335,7 @@ fieldset[disabled] .link-parent.active {
   display: inline-block;
   padding: 12px;
   margin: 6px 0 0 6px;
-  border: 1px solid #f23e03;
+  border: 1px solid #1663cc;
   margin-bottom: -1px;
   border-radius: 4px 4px 0 0;
   background: #fcfcfd;
@@ -2438,7 +2438,7 @@ fieldset[disabled] .link-parent.active {
   display: table-cell;
   font-weight: 300;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-  border: 1px solid #f23e03;
+  border: 1px solid #1663cc;
   border-radius: 4px;
   background: #fcfcfd;
   width: 220px;
@@ -2556,7 +2556,7 @@ fieldset[disabled] .link-parent.active {
 }
 */
 .portlet {
-  border: 1px solid #f23e03;
+  border: 1px solid #1663cc;
   margin-bottom: 20px;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
@@ -2607,7 +2607,7 @@ fieldset[disabled] .link-parent.active {
 }
 .portlet .portletContent {
   font-size: 14px;
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
   background: #fff;
   font-weight: 300;
 }
@@ -2631,7 +2631,7 @@ fieldset[disabled] .link-parent.active {
   color: #086ca3;
 }
 .portlet .portletContent > ul > li > a {
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
 }
 .portlet .portletContent > ul > li:first-child > a {
   border-top: 0;
@@ -2676,7 +2676,7 @@ fieldset[disabled] .link-parent.active {
 }
 .portlet .portletContent table thead {
   background: #fcfcfd;
-  border-bottom: 1px solid #f23e03;
+  border-bottom: 1px solid #1663cc;
 }
 .portlet .portletContent table thead th {
   color: #696969;
@@ -2750,7 +2750,7 @@ fieldset[disabled] .link-parent.active {
   box-shadow: none;
 }
 .portlet .portletFooter {
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
   background: #fcfcfd;
   padding: 10px 15px;
   font-size: 12px;
@@ -2770,11 +2770,11 @@ fieldset[disabled] .link-parent.active {
 }
 .portletNavigationTree nav.portletContent > ul > li a {
   padding: 10px 15px 10px 15px;
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
 }
 .portletNavigationTree nav.portletContent > ul > li strong {
   padding: 10px 15px 10px 15px;
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
   background: #fcfcfd;
   color: #696969;
   display: block;
@@ -2862,7 +2862,7 @@ fieldset[disabled] .link-parent.active {
   display: inline-block;
 }
 .managedPortlet {
-  border: 1px solid #f23e03;
+  border: 1px solid #1663cc;
   margin-bottom: 20px;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
@@ -2913,7 +2913,7 @@ fieldset[disabled] .link-parent.active {
 }
 .managedPortlet .portletContent {
   font-size: 14px;
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
   background: #fff;
   font-weight: 300;
 }
@@ -2937,7 +2937,7 @@ fieldset[disabled] .link-parent.active {
   color: #086ca3;
 }
 .managedPortlet .portletContent > ul > li > a {
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
 }
 .managedPortlet .portletContent > ul > li:first-child > a {
   border-top: 0;
@@ -2982,7 +2982,7 @@ fieldset[disabled] .link-parent.active {
 }
 .managedPortlet .portletContent table thead {
   background: #fcfcfd;
-  border-bottom: 1px solid #f23e03;
+  border-bottom: 1px solid #1663cc;
 }
 .managedPortlet .portletContent table thead th {
   color: #696969;
@@ -3056,7 +3056,7 @@ fieldset[disabled] .link-parent.active {
   box-shadow: none;
 }
 .managedPortlet .portletFooter {
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
   background: #fcfcfd;
   padding: 10px 15px;
   font-size: 12px;
@@ -3807,15 +3807,15 @@ ul.picker__list {
 .plone-nav > li > a:hover,
 .plone-nav > li > a:focus {
   text-decoration: none;
-  background-color: #FA713E;
+  background-color: #1159DD;
 }
 .plone-navbar {
   background-color: #007bb1;
-  background: rgba(0, 0, 0, 0) url("http://images.315ok.org/qyxycjh/images/menubg_4_43.jpg") repeat-x scroll 0 0;
-  height: 45px;
+  background: rgba(0, 0, 0, 0) url("http://images.315ok.org/qyxycjh/images/menubg_15_50.jpg") repeat-x scroll 0 0;
+  height: 50px;
   color: white;
   position: relative;
-  min-height: 43px;
+  min-height: 50px;
   margin-bottom: 0;
   border: 1px solid transparent;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.17);
@@ -3843,7 +3843,7 @@ ul.picker__list {
 }
 .plone-navbar-collapse {
   overflow-x: visible;
-  background-color: #f9636e;
+  background-color: #125ABE;
   padding-right: 9px;
   padding-left: 9px;
   border-top: 1px solid transparent;
@@ -3910,8 +3910,8 @@ ul.picker__list {
   outline: 0;
 }
 .plone-navbar-toggle:hover {
-  background-color: #e64306;
-  border-color: #b43405;
+  background-color: #0c3c96;
+  border-color: #082967;
 }
 .plone-navbar-toggle .icon-bar:after {
   content: "Menu";
@@ -3938,7 +3938,7 @@ ul.picker__list {
 .plone-navbar-nav > .selected > a:hover,
 .plone-navbar-nav > .selected > a:focus {
   color: white;
-  background-color: #FA713E;
+  background-color: #1159DD;
 }
 @media (min-width: 768px) {
   .plone-navbar-nav {
@@ -3948,15 +3948,15 @@ ul.picker__list {
     float: left;
   }
   .plone-navbar-nav > li > a {
-    padding-top: 11.5px;
-    padding-bottom: 11.5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
   .plone-navbar-nav.navbar-right:last-child {
     margin-right: -9px;
   }
 }
 .principal {
-  background: #d83f11;
+  background: #0f4ea4;
   background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 14%, transparent 14%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 64%, transparent 64%, transparent);
   background-size: 20px 20px;
   margin-top: -20px;
@@ -4071,7 +4071,7 @@ a.plone-toolbar-logo {
 #portal-footer-wrapper {
   padding: 20px 15px;
   background-color: transparent;
-  background: url(http://images.315ok.org/qyxycjh/images/footerbg_10_160.jpg) repeat-x;
+  background: url(http://images.315ok.org/qyxycjh/images/footerbg_9_160.jpg) repeat-x;
   color: #fafafa;
   text-align: center;
   clear: both;
@@ -4153,7 +4153,7 @@ a.plone-toolbar-logo {
 }
 body.template-login_form #content-core,
 body.template-logged_out #content-core {
-  border: 1px solid #f23e03;
+  border: 1px solid #1663cc;
   margin-bottom: 20px;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
@@ -4219,7 +4219,7 @@ body.template-logged_out #content-core.portletCalendar .portletHeader .calendarN
 body.template-login_form #content-core .portletContent,
 body.template-logged_out #content-core .portletContent {
   font-size: 14px;
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
   background: #fff;
   font-weight: 300;
 }
@@ -4248,7 +4248,7 @@ body.template-logged_out #content-core .portletContent > ul > li a {
 }
 body.template-login_form #content-core .portletContent > ul > li > a,
 body.template-logged_out #content-core .portletContent > ul > li > a {
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
 }
 body.template-login_form #content-core .portletContent > ul > li:first-child > a,
 body.template-logged_out #content-core .portletContent > ul > li:first-child > a {
@@ -4302,7 +4302,7 @@ body.template-logged_out #content-core .portletContent table tr {
 body.template-login_form #content-core .portletContent table thead,
 body.template-logged_out #content-core .portletContent table thead {
   background: #fcfcfd;
-  border-bottom: 1px solid #f23e03;
+  border-bottom: 1px solid #1663cc;
 }
 body.template-login_form #content-core .portletContent table thead th,
 body.template-logged_out #content-core .portletContent table thead th {
@@ -4397,7 +4397,7 @@ body.template-logged_out #content-core .formControls {
 }
 body.template-login_form #content-core .portletFooter,
 body.template-logged_out #content-core .portletFooter {
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
   background: #fcfcfd;
   padding: 10px 15px;
   font-size: 12px;
@@ -4417,7 +4417,7 @@ body.template-logged_out #content-core .portletFooter {
 }
 #portal-sitemap > li {
   font-size: 18px;
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
   padding: 6px 0;
 }
 #portal-sitemap ul {
@@ -4459,7 +4459,7 @@ body.template-logged_out #content-core .portletFooter {
   display: block;
 }
 .event_listing article {
-  border-top: 1px solid #f23e03;
+  border-top: 1px solid #1663cc;
   padding: 12px 0 12px;
 }
 .event_listing article h2 {
@@ -4689,7 +4689,7 @@ body.template-logged_out #content-core .portletFooter {
   text-align: right;
 }
 .discussion .reply {
-  border-bottom: 1px solid #f23e03;
+  border-bottom: 1px solid #1663cc;
 }
 .cancelreplytocomment {
   /* Hide the cancel button in the comment form, show it only in the reply form
