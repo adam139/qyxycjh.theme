@@ -18,6 +18,11 @@
           href="barceloneta-apple-touch-icon-precomposed.png" />
     <link rel="stylesheet" href="http://images.315ok.org/bootstrapthemes/css/bootstrap336.min.css"/> 
     <link href="http://images.315ok.org/qyxycjh/custom.min.css" rel="stylesheet">     
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script src="http://images.315ok.org/picturefill.min.js" async></script>
   </head>
   <body>
     <section id="portal-toolbar">
@@ -26,7 +31,16 @@
     	<div class="container container-header">      		
             <div id="headerlogo" class="row">
             	<div class="col-xs-12">
-             <img class="img-responsive" src="http://images.315ok.org/qyxycjh/images/header_1280_300.jpg" alt="logo" />
+
+             <img class="img-responsive"
+                  srcset="http://images.315ok.org/qyxycjh/images/header_1280_300.jpg 1024w,
+                          http://images.315ok.org/qyxycjh/images/header_800_188.jpg 768w,
+                          http://images.315ok.org/qyxycjh/images/header_640_150.jpg 640w,
+                          http://images.315ok.org/qyxycjh/images/header_320_75.jpg 320w"
+     			  sizes="100vw" 
+             src="http://images.315ok.org/qyxycjh/images/header_1280_300.jpg" 
+             alt="logo" />
+
 			</div>
             </div>
       </div>  
