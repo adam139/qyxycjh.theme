@@ -322,11 +322,11 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "microsoft yahei", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #000001;
-  background-color: #fafafa;
+  background-color: #ffffff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -1305,7 +1305,7 @@ th {
   border-top: 2px solid #e5e5e5;
 }
 .listing .listing {
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .listing > tbody > tr:nth-child(odd) > td,
 .listing > tbody > tr:nth-child(odd) > th {
@@ -3645,7 +3645,7 @@ ul.picker__list {
   position: absolute;
   background: #333333;
   background: rgba(0, 0, 0, 0.9);
-  color: #fafafa;
+  color: #ffffff;
   font-size: 12px;
   border-radius: 4px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.17);
@@ -4072,7 +4072,7 @@ a.plone-toolbar-logo {
   padding: 20px 15px;
   background-color: transparent;
   background: url(http://images.315ok.org/qyxycjh/images/footerbg_9_160.jpg) repeat-x;
-  color: #fafafa;
+  color: #ffffff;
   text-align: center;
   clear: both;
 }
@@ -4449,7 +4449,7 @@ body.template-logged_out #content-core .portletFooter {
   font-weight: 300;
   max-width: 300px;
   float: right;
-  background: #fafafa;
+  background: #ffffff;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.17);
   padding: 12px 12px 12px 36px;
   margin-left: 5px;
