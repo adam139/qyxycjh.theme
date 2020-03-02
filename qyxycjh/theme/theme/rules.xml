@@ -44,12 +44,14 @@
 -->
    
     <drop css:theme="#secondary-nav" css:if-not-content=".userrole-anonymous"/>
-    
+    <copy css:theme="#personaltools-login" css:content="#personaltools-login" attributes="href"/>
+    <copy css:theme="#personaltools-join" css:content="#personaltools-join" attributes="href"/>
+    <!--
     <replace css:theme-children="#secondary-nav" css:if-not-content=".ajax_load" css:if-content=".userrole-anonymous">
         <li><xsl:copy-of css:select="#personaltools-login"/></li>
         <li><xsl:copy-of css:select="#personaltools-join"/></li>             
     </replace>
-
+-->
   <!-- include view @@hero on homepage only 
   <after css:theme="#mainnavigation-wrapper" css:content=".principal" href="/@@hero" css:if-content="body.template-document_view.section-front-page" />
 -->
