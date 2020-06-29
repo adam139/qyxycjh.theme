@@ -99,7 +99,7 @@
 
   <!-- Right column -->
   <rules css:if-content="#portal-column-two">
-    <replace css:theme="#column2-container">
+      <replace css:theme="#column2-container">
       <div class="col-xs-12 col-sm-3 sidebar-offcanvas" role="complementary">
         <aside id="portal-column-two">
           <xsl:copy-of css:select="#portal-column-two > *" />
@@ -107,6 +107,10 @@
       </div>
     </replace>
   </rules>
+
+  <rules css:if-not-content="#portal-column-two">
+    <drop css:theme="#column2-container"/>
+  </rules> 
 
   <!-- Content header -->
   <replace css:theme="#portal-top" css:content-children="#portal-top" />
